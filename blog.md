@@ -27,4 +27,10 @@ The system defines hierarchy of the elements within the composition. The main sp
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_1/kraftwerk_man_machine_negative_space.jpg" align="middle" width="70%">
 </p>
 
-On the other hand
+The designer seeks to bring our attention firstly to the robot-human faces -which are the main characters- but he did it with a playful counterposition of the contrasted red background and the black hair that contour the skin-colored faces. This is the first positive space.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_1/kraftwerk_man_machine_positive_space_1.jpg" align="middle" width="70%">
+</p>
+
+After that, the designer decided to call our attention to the information displayed within the rotated system, written in black and white capital letters. Firstly the attention is attracted by the upper-left side of the cover in where the name *Kraftwerk* is written in a shiny white which clearly evokes the Suprematism before mentioned. In the same section the name of the cover the name of the album is displayed in a black and sharpened font -deliberately chosen to give the title a mechanic and technology aspect-, in which the "M" of "Menesch" is remarked by being double sized respecting the rest of the title. Clearly the use of color in the text seeks to remark in first place the name of the band and in second place the name of the album. Finally
