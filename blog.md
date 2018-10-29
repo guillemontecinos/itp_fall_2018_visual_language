@@ -20,3 +20,11 @@ The system used to design the cover -as said before- consists in an orthogonal a
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_1/kraftwerk_man_machine_shapes.jpg" align="middle" width="70%">
 </p>
+
+The system defines hierarchy of the elements within the composition. The main space also hosts the negative space of the cover which is corresponds to the red background of the picture and the red shirts of the four musicians. It's fair to ask if the clothes of the persons should be considered positive space because are wore by the main characters of the composition, but it's a design decision to make them fade with the background to remark the human-machine faces.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_1/kraftwerk_man_machine_negative_space.jpg" align="middle" width="70%">
+</p>
+
+On the other hand
