@@ -9,4 +9,4 @@ For the design analysis is chose the cover of "The Man Machine", the 7th album o
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_1/kraftwerk_man_machine.jpg" align="middle" width="70%">
 </p>
 
-"The Man Machine" cover was designed by
+"The Man Machine" cover was designed by the German artist Günther Fröhling and is strongly influenced by the [Russian Suprematism](https://en.wikipedia.org/wiki/Suprematism) because of the straight lines that define the system -which is rotated- and the dominant presence of the red and black within the composition.
