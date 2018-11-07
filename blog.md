@@ -44,7 +44,7 @@ After that, the designer decided to call our attention to the information displa
 For the 2nd week of class we were committed to go out, look for information systems and analyze their design effectiveness for communicate information to their objective audience. We were asked to pick two successful signs and tow unsuccessful ones.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/sign_collection.jpg" align="middle" width="50%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/sign_collection.jpg" align="middle" width="80%">
 </p>
 
 Upper in the picture can be found the two successful signs, whilst un the bottom half can be found the unsuccessful signs I found in the street. The first one is the **Trucks are not allowed** sign, which clearly shows with a truck icon that those kind of vehicles cannot be parked in the area. In red are displayed the words **are not** which immediately calls the attention of the audience -in this case cars and trucks drivers. The picture was taken in the parking lot close to ITP on Broadway.
