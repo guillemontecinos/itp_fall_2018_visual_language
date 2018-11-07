@@ -43,7 +43,9 @@ After that, the designer decided to call our attention to the information displa
 ## Week 2 - Signage Research
 For the 2nd week of class we were committed to go out, look for information systems and analyze their design effectiveness for communicate information to their objective audience. We were asked to pick two successful signs and tow unsuccessful ones.
 
-Here a picture with the four signs.
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/sign_collection.jpg" align="middle" width="50%">
+</p>
 
 Upper in the picture can be found the two successful signs, whilst un the bottom half can be found the unsuccessful signs I found in the street. The first one is the **Trucks are not allowed** sign, which clearly shows with a truck icon that those kind of vehicles cannot be parked in the area. In red are displayed the words **are not** which immediately calls the attention of the audience -in this case cars and trucks drivers. The picture was taken in the parking lot close to ITP on Broadway.
 
@@ -59,7 +61,7 @@ Sketching picture
 
 For re-designing this sign I though that the most important word of the phrase was **Look**, since you kept attention of pedestrians you can give them more information. For that purpose I decided to draw the word **Look** in the middle of the sign with a bigger font size than the rest of the text. As well I realized that while the sign is faced to the walk side there is no need to explicitly say **Pedestrians**, so I took it off.
 
-Just as I took of the word Pedestrians I realized that as it was that important to induce people to look both ways, it can be powerful to reinforce it by adding a two-head arrow under the text. Finally, in order to make the sign more impressive to the audience I decided to add an alert *!* icon in the top of the sign. In this way the sign flow is as follows: first the alert icon calls the attention of the pedestrian and then the big size word *Look* asks the user to look both sides before crossing which is reinforced with the arrow under the text.
+Just as I took of the word Pedestrians I realized that as it was that important to induce people to look both ways, it can be powerful to reinforce it by adding a two-head arrow under the text. Finally, in order to make the sign more impressive to the audience I decided to add an alert **!** icon in the top of the sign. In this way the sign flow is as follows: first the alert icon calls the attention of the pedestrian and then the big size word **Look** asks the user to look both sides before crossing which is reinforced with the arrow under the text.
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/unsuccessful_1_edited.jpg" align="middle" width="50%">
