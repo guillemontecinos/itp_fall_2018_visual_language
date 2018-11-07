@@ -36,7 +36,7 @@ The designer seeks to bring our attention firstly to the robot-human faces -whic
 After that, the designer decided to call our attention to the information displayed within the rotated system, written in black and white capital letters. Firstly the attention is attracted by the upper-left side of the cover in where the name *Kraftwerk* is written in a shiny white which clearly evokes the Suprematism before mentioned. In the same section the name of the cover the name of the album is displayed in a black and sharpened font -deliberately chosen to give the title a mechanic and technology aspect-, in which the "M" of "Menesch" is remarked by being double sized respecting the rest of the title. Clearly the use of color in the text seeks to remark in first place the name of the band and in second place the name of the album. Finally, the translation of the album title is displayed in three languages rotated 90 degrees respect the main text information of the cover, framing the main area of the composition.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_1/kraftwerk_man_machine_positive_space_2.jpg" align="middle" width="70%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_1/kraftwerk_man_machine_positive_space_2.jpg" align="middle" width="50%">
 </p>
 
 
@@ -50,7 +50,7 @@ Upper in the picture can be found the two successful signs, whilst un the bottom
 The second one is **Walk Bikes on Path** sign -picture taken in the Central Park- which shows a red biker and he/she's bike which are behind a red "prohibition" icon. This sign shows clearly that bikes can't bike in park's paths. The green background color is part of Central Park's information system and highlights the recreation context purpose of the facility.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/unsuccessful_1_original.jpg" align="middle" width="70%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/unsuccessful_1_original.jpg" align="middle" width="50%">
 </p>
 
 The third one is a MTA planning work sign. For me this kind of signs are usually confusing because hold a lot of written content and don't use color as an information tool. Finally, the four sign -and the one I re-designed- is the **Pedestrians look both ways before you cross** I took also from the Central Park. This sign doesn't commit the aim of call attention of pedestrians and make then safety cross the street because the information is given in plain text and there is nothing that can make users realize they are in a situation of danger.
