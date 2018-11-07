@@ -47,7 +47,7 @@ For the 2nd week of class we were committed to go out, look for information syst
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/sign_collection.jpg" align="middle" width="80%">
 </p>
 
-Upper in the picture can be found the two successful signs, whilst un the bottom half can be found the unsuccessful signs I found in the street. The first one is the **Trucks are not allowed** sign, which clearly shows with a truck icon that those kind of vehicles cannot be parked in the area. In red are displayed the words **are not** which immediately calls the attention of the audience -in this case cars and trucks drivers. The picture was taken in the parking lot close to ITP on Broadway.
+The first two images corresponds to the two successful signs, whilst the second two are the unsuccessful ones I found in the street. The first one is the **Trucks are not allowed** sign, which clearly shows with a truck icon that those kind of vehicles cannot be parked in the area. In red are displayed the words **are not** which immediately calls the attention of the audience -in this case cars and trucks drivers. The picture was taken in the parking lot close to ITP on Broadway.
 
 The second one is **Walk Bikes on Path** sign -picture taken in the Central Park- which shows a red biker and he/she's bike which are behind a red "prohibition" icon. This sign shows clearly that bikes can't bike in park's paths. The green background color is part of Central Park's information system and highlights the recreation context purpose of the facility.
 
@@ -57,7 +57,9 @@ The second one is **Walk Bikes on Path** sign -picture taken in the Central Park
 
 The third one is a MTA planning work sign. For me this kind of signs are usually confusing because hold a lot of written content and don't use color as an information tool. Finally, the four sign -and the one I re-designed- is the **Pedestrians look both ways before you cross** I took also from the Central Park. This sign doesn't commit the aim of call attention of pedestrians and make then safety cross the street because the information is given in plain text and there is nothing that can make users realize they are in a situation of danger.
 
-Sketching picture
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/sketch_1.jpg" align="middle" width="50%">
+</p>
 
 For re-designing this sign I though that the most important word of the phrase was **Look**, since you kept attention of pedestrians you can give them more information. For that purpose I decided to draw the word **Look** in the middle of the sign with a bigger font size than the rest of the text. As well I realized that while the sign is faced to the walk side there is no need to explicitly say **Pedestrians**, so I took it off.
 
