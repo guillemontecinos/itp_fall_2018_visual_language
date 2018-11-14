@@ -68,3 +68,7 @@ Just as I took of the word Pedestrians I realized that as it was that important 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_2/unsuccessful_1_edited.jpg" align="middle" width="50%">
 </p>
+
+## Week 3 - Typography and Expression
+
+For the third assignment of this class we were committed to work taking into account the typography and how it can add expression to a word. First of all we were asked to re-design a flight ticket using a different typography in order to make it legible. For this purpose I used the typeface *Roboto* which was designed for the Android OS with the goal of make information legible in any device.
