@@ -78,13 +78,13 @@ For the third assignment of this class we were committed to work taking into acc
 First of all we were asked to re-design a flight ticket using a different typography in order to make it legible. For this purpose I used the typeface *Roboto* which was designed for the Android OS with the goal of make information legible in any device.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_original_ticket.png" align="middle" width="100%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_original_ticket.png" align="middle" width="80%">
 </p>
 
 Considering the goal of this assignment I decided to use the rule of the thirds to compose the elements in the space. Also I decided that the audience of this design are the airline customers and the most important information was the gate number and seat number, as well as the flight number and departing time. So, considering the huge amount of information and the prioritized information I put on the left the costumer name and departure and destination airports. In the center of the ticket I wrote the information that is not important for the passenger as Docs, BCN, class and bags -which is important but is encoded so probably just the company agents can understand it. Finally, in the right part of the ticket -the one that can be cut- I tried to keep the same organization and font sizes than the left part.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_ticket.png" align="middle" width="100%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_ticket.png" align="middle" width="80%">
 </p>
 
 ### Expressive words
@@ -92,11 +92,11 @@ Considering the goal of this assignment I decided to use the rule of the thirds 
 For the second half of the assignment I decided to draw to words **SOUND** and **SCREAM**. For both of them I chose the typeface Myriad Pro, because it is Sans Serif -what I prefer for this purpose due to its readability. For the word sound I wanted to create the sensation of a wave being propagated through the space, that is why I copied many times the letter D and drown it in grayscale under the original D.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_sound.png" align="middle" width="100%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_sound.png" align="middle" width="80%">
 </p>
 
 Finally, for the word scream I wanted to graphically represent a scream -like an onomatopoeia- so I increased the letter size as each letter was written to add tension to the word.
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_scream.png" align="middle" width="100%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_scream.png" align="middle" width="80%">
 </p>
