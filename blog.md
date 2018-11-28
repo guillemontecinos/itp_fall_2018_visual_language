@@ -110,31 +110,31 @@ For the sketches design I took the chance of exploring the possibilities of the 
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_1.png" align="middle" width="70%">
 </p>
 
-->*Sketch 1: Random rotation and color saturation variation.*<-
+*Sketch 1: Random rotation and color saturation variation.*
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_2.png" align="middle" width="70%">
 </p>
 
-->*Sketch 2: Nested rects randomly colored.*<-
+*Sketch 2: Nested rects randomly colored.*
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_3.png" align="middle" width="70%">
 </p>
 
-->*Sketch 3: Color transparency and random color and x-y translation.*<-
+*Sketch 3: Color transparency and random color and x-y translation.*
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_4.png" align="middle" width="70%">
 </p>
 
-->*Sketch 4: Color transparency, random color, x-y translation and rotation.*<-
+*Sketch 4: Color transparency, random color, x-y translation and rotation.*
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_5.png" align="middle" width="70%">
 </p>
 
-->*Sketch 5: Variation of Sketch 4 with a fixed green hue.*<-
+*Sketch 5: Variation of Sketch 4 with a fixed green hue.*
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_6.png" align="middle" width="70%">
