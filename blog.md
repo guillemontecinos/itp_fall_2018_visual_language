@@ -100,3 +100,8 @@ Finally, for the word scream I wanted to graphically represent a scream -like an
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_3/assignment_scream.png" align="middle" width="80%">
 </p>
+
+## Week 4 - Color Theory
+For this week we were asked to build a palette of color that represented ourselves and create 6 sketches using that palette. Following Katherine's suggestion I built my palette from the colors I consider characteristic of my [Instagram](https://www.instagram.com/guillermolooped/) account.
+
+For the sketches design I took the chance of exploring the possibilities of the square shape, inspired in the work [Metaesquema](https://www.tate.org.uk/art/artworks/oiticica-metaesquema-t12418) by Hélio Oiticica. I used p5.js to code sketches in where randomness was introduced to generate algorithmic designs.
