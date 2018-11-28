@@ -140,4 +140,4 @@ For the sketches design I took the chance of exploring the possibilities of the 
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_6.png" align="middle" width="70%">
 </p>
 
-->Sketch 6: Color transparency, random color, x-y translation, rotation and rect size.<-
+-> Sketch 6: Color transparency, random color, x-y translation, rotation and rect size. <-
