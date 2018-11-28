@@ -106,6 +106,17 @@ For this week we were asked to build a palette of color that represented ourselv
 
 For the sketches design I took the chance of exploring the possibilities of the square shape, inspired in the work [Metaesquema](https://www.tate.org.uk/art/artworks/oiticica-metaesquema-t12418) by Hélio Oiticica. I used p5.js to code sketches in where randomness was introduced to generate algorithmic designs.
 
+The palette used is composed by the following colors (HEX):
+* #000000
+* #788FAC
+* #5B8129
+* #C4B490
+* #FFFFFF
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/palette.png" align="middle" width="70%">
+</p>
+
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_4/sketch_1.png" align="middle" width="70%">
 </p>
