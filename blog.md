@@ -156,5 +156,5 @@ For the sketches design I took the chance of exploring the possibilities of the 
 ## Week 5 - composition
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/tree/master/week_5" align="middle" width="70%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/tree/master/week_5/itp_postcard.jpg" align="middle" width="70%">
 </p>
