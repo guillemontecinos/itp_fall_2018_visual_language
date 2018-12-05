@@ -153,8 +153,8 @@ For the sketches design I took the chance of exploring the possibilities of the 
 
 *Sketch 6: Color transparency, random color, x-y translation, rotation and rect size.*
 
-## Week 5 - composition
+## Week 5 - Composition
 
 <p align="center">
-  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/tree/master/week_5/itp_postcard.jpg" align="middle" width="70%">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_5/itp_postcard.jpg" align="middle" width="70%">
 </p>
