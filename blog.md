@@ -155,6 +155,9 @@ For the sketches design I took the chance of exploring the possibilities of the 
 
 ## Week 5 - Composition
 
+For the composition assignment we were committed to design the poster for the 2018 ITP Winter Show, which should represent our community.
+
+
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_5/itp_postcard.jpg" align="middle" width="70%">
 </p>
