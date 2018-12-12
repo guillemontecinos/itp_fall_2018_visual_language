@@ -155,8 +155,11 @@ For the sketches design I took the chance of exploring the possibilities of the 
 
 ## Week 5 - Composition
 
-For the composition assignment we were committed to design the poster for the 2018 ITP Winter Show, which should represent our community.
+For the composition assignment we were committed to design the poster for the 2018 ITP Winter Show, in which we should represent ITP community. The community is composed by individuals, each one different from the other, individuals that mostly love electronics.
 
+That's how I came with the -cliché- idea of representing the community with binary code. But to not be as cliché as it is I converted the description of ITP -published in it's [website](https://tisch.nyu.edu/itp)- to raw binary data which I used as a background for the 2018 Winter Show poster design.
+
+Over that background I wrote the words "itp" and "winter show" following the thirds rule, and focusing the attention to the name of the program. Below that and towards the bottom-right side of the poster I decided to place the information of the event in Josef Sans Bold font over a white rect which enhanced the content.
 
 <p align="center">
   <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_5/itp_postcard.jpg" align="middle" width="70%">
@@ -168,7 +171,7 @@ For the last week we were assigned to design a business card that represented ou
 
 Attempting to bring my work to the iconography through which I represent myself I selected a random level curves pattern that I generated in Processing for a previous work. This pattern -originally black over a white background- was used as a center shape around which the composition was developed.
 
-For the front of the card I chose a white background -accordingly with the original pattern design- in which I set my name at the top-left corner in two rows, one for the first name and one for the second name. The font sizes were defined in order to make both words the same width. Under that block I wrote "Creative Technologist", which is the description that identifies me the most.
+For the front of the card I chose a white background -accordingly with the original pattern design- in which I set my name at the top-left corner in two rows, one for the first name and one for the second name. The font sizes were defined in order to make both words the same width. Under that block I wrote "Creative Technologist", which is the description that identifies me the most. The typeface used for all the text was Myriad Pro Regular.
 
 In a seek to make the card playful I used the diagonal principle of composition to set the random-shaped lines at the bottom-right area of the design, as a counterpoint of the name and title. Finally, at the very bottom-right side of the card I wrote my website "guillemontecinos.cl".
 
