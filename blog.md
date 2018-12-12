@@ -160,3 +160,17 @@ For the sketches design I took the chance of exploring the possibilities of the 
 </p>
 
 ## Week 6 - Business Card
+
+For the last week we were assigned to design a business card that represented ourselves as a brand. Consistently with further works I defined a palette with my favorite colors: black and white.
+
+Attempting to bring my work to the iconography through which I represent myself I selected a random level curves pattern that I generated in Processing for a previous work. This pattern -originally black over a white background- was used as a center shape around which the composition was developed.
+
+For the front of the card I chose a white background -accordingly with the original pattern design- in which I set my name at the top-left corner in two rows, one for the first name and one for the second name. The font sizes were defined in order to make both words the same width. Under that block I wrote "Creative Technologist", which is the description that identifies me the most.
+
+In a seek to make the card playful I used the diagonal principle of composition to set the random-shaped lines at the bottom-right area of the design, as a counterpoint of the name and title. Finally, at the very bottom-right side of the card I wrote my website "guillemontecinos.cl".
+
+The back of the card is a negative of the front in which the white random shapes are placed over a black background.
+
+<p align="center">
+  <img src="https://github.com/guillemontecinos/itp_fall_2018_visual_language/blob/master/week_6/tiro_retiro.png" align="middle" width="70%">
+</p>
